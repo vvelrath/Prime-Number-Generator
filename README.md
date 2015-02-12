@@ -8,7 +8,6 @@ Prime Number Generator
 	2) Runs all the test cases to check the code coverage
 	3) Exits the program
 	
-	
 	Syntax: java -jar PrimeNumberGenerator.jar
 
 ### Steps to set-up the program in eclipse
